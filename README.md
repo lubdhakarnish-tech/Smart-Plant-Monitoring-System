@@ -49,12 +49,12 @@ ESP32 collects data from sensors and sends it to Blynk. When soil moisture drops
 ## Output
 
 ### System Overview
-![System Overview](results/1747118015751.jpeg)
+![System Overview](results/certificate.jpeg)
 
 Project completion certificate
 
 ### Hardware Setup
-![Hardware Setup](results/WhatsApp Image 2026-03-25 at 19.53.18 (1).jpeg)
+![Hardware Setup](results/1747118015751.jpeg)
 
 Physical implementation including ESP32, sensors, relay module, LCD, and water pump connections.
 
