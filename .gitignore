@@ -1,0 +1,9 @@
+*.exe
+*.bin
+*.hex
+*.zip
+*.rar
+*.log
+node_modules/
+.vscode/
+.DS_Store
