@@ -1,0 +1,28 @@
+DHT11
+VCC -> 3.3V
+GND -> GND
+DATA -> GPIO 4
+
+Soil Moisture Sensor
+VCC -> 3.3V
+GND -> GND
+A0 -> GPIO 34
+
+PIR Sensor
+VCC -> 5V
+GND -> GND
+OUT -> GPIO 27
+
+Relay Module
+VCC -> 5V
+GND -> GND
+IN -> GPIO 26
+
+Water Pump
+Connected via relay
+
+LCD I2C
+VCC -> 5V
+GND -> GND
+SDA -> GPIO 21
+SCL -> GPIO 22
